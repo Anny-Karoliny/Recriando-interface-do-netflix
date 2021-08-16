@@ -5,4 +5,6 @@
 - HTML
 - CSS
 - JS
+- Jquery
+
 
