@@ -11,6 +11,14 @@
     .filme-principal{
          background: linear-gradient(rgba(0, 0, 0, .50), rgba(0,0,0,.50)100%) , url(/img/capa-house4.jpg);
     }
+    footer{
+        display: flex;
+        /*align-items: center;*/
+        flex-direction: column;
+    }
+    footer a {
+        padding: 5px;
+    }
 }
 
 @media screen and (min-width:1372px){
@@ -23,3 +31,4 @@
     }
 
 }
+
